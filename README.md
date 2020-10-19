@@ -29,3 +29,8 @@ Run application and use **drag & drop** to produce "portrait mode" effect.
 <p align="center"><b>Figure 1.</b> Example of "portrait mode" effect</p>  
 
 ## References
+[1] [**Portrait mode**](https://github.com/mayank26saxena/portrait-mode) implementation using TF and Python.  
+[2] Tutorial: how to convert them to ONNX and run them under [**onnxruntime**](https://github.com/onnx/tensorflow-onnx/blob/master/tutorials/ConvertingSSDMobilenetToONNX.ipynb).  
+[3] Microsoft: ONNX Runtime [**C#**](https://github.com/microsoft/onnxruntime/blob/master/docs/CSharp_API.md) API.  
+[4] [**UMapx.NET**](https://github.com/asiryan/UMapx.NET) - digital signal processing library.
+[5] Real-time [**chromakey**](https://github.com/asiryan/Real-time-chromakey) effect.
