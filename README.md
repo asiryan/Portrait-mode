@@ -6,7 +6,7 @@ Traditionally, the portrait mode effect has been achieved using 2 lenses which d
 
 ## DeepLab to ONNX
 Download DeepLab model trained on [**COCO dataset**](https://cocodataset.org/#home) from the [**Model Zoo**](https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md) and convert it with to onnx model.  
-For example download [**deeplabv3_mnv2_pascal_train_aug_2018_01_29**](http://download.tensorflow.org/models/deeplabv3_mnv2_pascal_train_aug_2018_01_29.tar.gz) and convert it to onnx model from **saved_model.pb**
+For example download [**deeplabv3_mnv2_pascal_train_aug_2018_01_29**](http://download.tensorflow.org/models/deeplabv3_mnv2_pascal_train_aug_2018_01_29.tar.gz) and convert it to onnx model from **frozen_inference_graph.pb**
 ```
 python -m tf2onnx.convert 
   --opset 11
