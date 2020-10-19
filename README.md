@@ -19,3 +19,9 @@ python -m tf2onnx.convert
 or use already-made [**onnx**](https://yadi.sk/d/SieS9IWAzYhdZg?w=1) model.
 
 ## C# application
+fsfs
+<p align="center"><img width="50%" src="docs/girl.jpg"/><img width="50%" src="docs/girl_effect.jpg"/></p>  
+<p align="center"><b>Figure 1.</b> Example of "portrait mode" effect</p>  
+
+<p align="center"><img width="50%" src="docs/girl2.jpg"/><img width="50%" src="docs/girl2_effect.jpg"/></p>  
+<p align="center"><b>Figure 1.</b> Example of "portrait mode" effect</p>  
