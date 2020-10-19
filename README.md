@@ -19,11 +19,12 @@ python -m tf2onnx.convert
 or use already-made [**onnx**](https://yadi.sk/d/SieS9IWAzYhdZg?w=1) model.
 
 ## C# application
-Define model
+Define model path
 ```
 deepPersonLab = new DeepPersonLab(@"..\..\..\deeplabv3_mnv2_pascal_train_aug.onnx");
 ```
-Build C# source code, run application and use drag & drop effect to produce "portrait mode" effect.
+and build C# source code.  
+Run application and use **drag & drop** to produce "portrait mode" effect.
 <p align="center"><img width="40%" src="docs/girl.jpg"/><img width="40%" src="docs/girl_effect.jpg"/></p>   
 <p align="center"><b>Figure 1.</b> Example of "portrait mode" effect</p>  
 
