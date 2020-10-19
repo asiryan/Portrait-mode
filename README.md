@@ -1,4 +1,4 @@
-# Portrait-mode
+# "Portrait mode" effect
 High quality implementation of the "portrait mode" effect using Neural Networks.
 
 ## How it works?
