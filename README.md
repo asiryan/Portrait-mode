@@ -16,7 +16,7 @@ python -m tf2onnx.convert
   --inputs ImageTensor:0
   --outputs SemanticPredictions:0
 ```
-or use already-made [**onnx**](https://yadi.sk/d/SieS9IWAzYhdZg?w=1) model.
+or use already-made [**onnx**](deeplabv3_mnv2_pascal_train_aug_2018_01_29) model.
 
 ## C# application
 Define model path
