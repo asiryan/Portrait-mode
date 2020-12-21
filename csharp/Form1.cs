@@ -37,7 +37,7 @@ namespace portrait_mode
                 "GIF|*.gif|" +
                 "TIFF|*.tiff";
 
-            deepPersonLab = new DeepPersonLab(@"..\..\..\deeplabv3_mnv2_pascal_train_aug.onnx");
+            deepPersonLab = new DeepPersonLab(@"..\..\..\deeplabv3_mnv2_pascal_train_aug_2018_01_29\deeplabv3_mnv2_pascal_train_aug.onnx");
             portraitModeFilter = new PortraitModeFilter(0.0);
         }
 
