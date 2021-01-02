@@ -1,5 +1,5 @@
 # Portrait mode effect
-High quality implementation of the "portrait mode" effect using Neural Networks.
+High quality implementation of the portrait mode effect using Neural Networks.
 
 ## How it works?
 Traditionally, the portrait mode effect has been achieved using 2 lenses which detect objects present in the foreground and in the background. With advances in the field of ML, this effect can also be implemented using only image segmentation. Using the pretrained [**DeepLab-v3+**](https://github.com/tensorflow/models/tree/master/research/deeplab) open source TensorFlow model, we can find the objects in the foreground of the image and blur the background to replicate this effect.
